@@ -1,6 +1,6 @@
-# responsive_website-template
+#design_website
 
 - fully responsive website template
 - created using Bootstrap
 - template can be seen on below link
-- https://mohanlallothiya.github.io/responsive_website-template/
+- https://mohanlallothiya.github.io/design_website/
